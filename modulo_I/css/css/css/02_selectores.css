@@ -1,0 +1,21 @@
+h1{
+   color:rgb(103, 49, 152);
+}
+
+.tipo_clase{
+    color:blue;
+}
+
+#selector_id{
+    color:aquamarine;
+}
+
+*{margin: 0;}
+
+div p{
+    color:chartreuse;
+}
+
+ul > li {
+    color:blue;
+}
