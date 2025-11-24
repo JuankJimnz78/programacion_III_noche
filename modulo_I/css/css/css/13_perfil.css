@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    align-items: center;    
+    flex-direction: column;
+
+}
+
+h1{
+    color:darkgreen;
+    text-align: center;
+}
+
+.card{
+    align-items: center;
+    width: 250px;
+    text-align: center;
+    background-color: lightgray;
+    padding: 20px;
+    border-radius: 12px;
+    color: black;
+}
+.perfil{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-bottom: 15px;
+}
